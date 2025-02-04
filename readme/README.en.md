@@ -6,7 +6,7 @@
 
 ## Mod Name
 
-FastCommand Carpet
+FastCommand Carpet | FCC
 
 ## Version
 
