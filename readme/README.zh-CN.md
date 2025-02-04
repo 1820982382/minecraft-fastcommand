@@ -5,7 +5,7 @@
 
 ## 模组名称
 
-FastCommand
+FastCommand Carpet | Carpet指令降级
 
 ## 版本
 
