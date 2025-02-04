@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "fastcommand",
+  "version": "1.0.0",
+  "name": "FastCommand",
+  "description": "Allow players to use /tpa and Carpet commands without OP.",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.flyclashly.fastcommand.FastCommand"
+    ]
+  },
+  "mixins": [
+    "mixins.fastcommand.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "1.20.1",
+    "carpet": ">=1.4.112"
+  }
+}
