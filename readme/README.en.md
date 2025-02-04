@@ -6,7 +6,7 @@
 
 ## Mod Name
 
-FastCommand
+FastCommand Carpet
 
 ## Version
 
@@ -26,6 +26,8 @@ FastCommand is a lightweight command enhancement mod for Minecraft, designed to 
 
 - **Teleport Freedom** 🚀：Send teleport requests via `/tpa <username>`, and let the target player accept with `/y` or decline with `/n`.
 - **Carpet Commands Access** 🔧：Allow regular players to use Carpet mod commands (e.g., `/log`, `/tick`).
+
+This mod is built upon the foundation created by gnembon, the author of Carpet.
 
 ## Key Advantages
 
