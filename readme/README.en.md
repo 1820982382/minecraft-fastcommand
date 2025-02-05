@@ -48,7 +48,7 @@ This mod is built upon the foundation created by gnembon, the author of Carpet.
 **Prerequisites**：
 
 - Install Fabric Loader 0.16.10 or higher.
-- Download and install Fabric API 0.92.3+ and Carpet Mod 1.4.112+.
+- Download and install Fabric API 0.92.3+ and fabric-carpet-1.20-1.4.112+v230608.
 
 **To install FastCommand**：
 
