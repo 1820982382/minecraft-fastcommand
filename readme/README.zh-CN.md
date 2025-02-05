@@ -47,7 +47,7 @@ FastCommand 是一款专为《我的世界》设计的轻量级指令增强模�
 **前置依赖**：
 
 - 安装 Fabric Loader 0.16.10 或更高版本。
-- 下载并安装 Fabric API 0.92.3+ 和 Carpet Mod 1.4.112+。
+- 下载并安装 Fabric API 0.92.3+ 和 fabric-carpet-1.20-1.4.112+v230608。
 
 **安装步骤**：
 
